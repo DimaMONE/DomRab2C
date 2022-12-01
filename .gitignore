@@ -396,5 +396,5 @@ FodyWeavers.xsd
 
 # Наездник JetBrains
 * .sln.iml
- # bin
- # obj
+bin
+obj
